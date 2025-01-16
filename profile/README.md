@@ -1,10 +1,13 @@
 # Build To Scale
 
-## Draft Intents:
+## Organizational Goals:
 - Libary Code for .NET Core
+
+## Guidelines
 - Prefer C# projects unless the project warrants otherwise
-- Adding Policy
+
+## ToDo:
+- Add and Use Policy
 - CI
-- And eventually CD
-- Eventually to use Containers
-- 
+- CD
+- Containers
